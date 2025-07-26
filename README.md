@@ -1,14 +1,10 @@
----
-title: Kavs Chatbot
-emoji: 💬
-colorFrom: indigo
-colorTo: purple
-sdk: gradio
-sdk_version: "4.29.0"
-app_file: app.py
-pinned: false
-license: mit
----
+# AI-Powered Chatbot 🤖
 
-# Kavs 💬
-A sweet, emotionally intelligent chatbot built with ❤️ using Python and Gradio. Designed for quick deployment on Hugging Face Spaces.
+A simple AI chatbot using Python and Gradio that responds to greetings and general conversation.
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+python app.py
+
